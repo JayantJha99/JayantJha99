@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Jayant 👋
 
-<!--
-**JayantJha99/JayantJha99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Engineer passionate about building scalable cloud-native data platforms and distributed systems.
 
-Here are some ideas to get you started:
+##  Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* AWS/Azure
+* Databricks
+* PySpark
+* Python
+* SQL
+* C++
+* Spark & Distributed Processing
+
+## Currently Exploring
+
+* System Design
+* Distributed Systems
+* Backend Engineering
+* AI Infrastructure
+* Competitive Programming
+
+## What I Like Building
+
+* ETL/ELT Pipelines
+* Cloud Data Platforms
+* Workflow Orchestration
+* Analytics & BI Pipelines
+* AI-ready Data Systems
+
+## Coding Profiles
+
+* LeetCode_1: https://leetcode.com/u/jayantjha98/
+* LeetCode_2: https://leetcode.com/u/jayant99work/
+* GFG: https://www.geeksforgeeks.org/profile/jayantjha98
+
+## 🌱 Current Goal
+
+Becoming a stronger Data Engineer while building scalable systems that create real-world impact.
